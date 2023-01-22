@@ -10,8 +10,7 @@
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  height="" width="50%" />
 
 <div>
-<ul style=" list-style-type: none;display:flex;flex-direction:column;
-justify-content: space-evenly;height:100%;font-size:18px">
+<ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
 <li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
 <li>🏢  Intern at Rooster Technologies</li>
 <li>🎗️  Working on Web Development</li>
