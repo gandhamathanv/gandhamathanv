@@ -12,7 +12,7 @@
 <div>
 <ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
 <li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
-<li>🏢  Intern at Rooster Technologies</li>
+<li>🏢  Currently studuying Cloud</li>
 <li>🎗️  Working on Web Development</li>
 <li>🎖️  Project for Erode district <a href="https://www.nilam.netlify.app">Nilam</a></li>
 <li>🙊  Can speak in Tamil, English</li>
