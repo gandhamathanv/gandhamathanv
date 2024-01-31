@@ -81,11 +81,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=gandhamathanv&theme=radical&no-frame=true&no-bg=true&margin-w=1)
 
 ---
-<div id="asd"></div>
 
-<script>
-  document.getElementById("asd").innerText="hello";
-</script>
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=gandhamathanv&icon=6&color=4)](https://visitcount.itsvg.in)
