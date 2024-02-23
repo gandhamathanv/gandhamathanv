@@ -2,7 +2,7 @@
 
 <h1 style="font-size:32px;
   font-weight: bold;">
-💫 About Me:
+💫 about me:
 </h1>
 
 <div style="margin:40px 0px;display:flex;gap:10px;">
