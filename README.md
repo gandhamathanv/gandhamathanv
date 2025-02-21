@@ -13,7 +13,7 @@
 <ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
 <li>🧑‍💻  Software Associate Developer Intern at <a hreh="https://www.linkedin.com/company/guviofficial/mycompany/">GUVI Geek Networks</a></li>
 <li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
-<li>🏢  Currently studying GoLang</li>
+<li>🏢  Currently Learning GoLang</li>
 <li>🎗️  Working on Full Stack Development</li>
 <li>🙊  Can speak in Tamil, English</li>
 </ul>
