@@ -1,21 +1,21 @@
 ### <div align="center" style="margin: 10px;font-size: 40px;">Gandhamathan <span style="font-size: 20px;"> Full Stack developer</span></div>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGT8yC0tVYrHA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674410769442?e=1745452800&v=beta&t=den6Daxb4-ErZXQdSCcRqKoUzr4ML8mrrYXEwl099y0" align="center" />
 
 <h1 style="font-size:32px;
   font-weight: bold;">
-💫 about me:
+💫 About Me:
 </h1>
 
 <div style="margin:40px 0px;display:flex;gap:10px;">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGT8yC0tVYrHA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674410769442?e=1732147200&v=beta&t=eC1a2THWtH3wcxdh6hqeDbC_Gdn8jp2nmsqSNRw_fdo" align="center"  height="" width="50%" />
 
 <div>
 <ul style=" list-style-type: none;display:flex;flex-direction:column;justify-content: space-evenly;height:100%;font-size:18px">
-<li>🧑‍💻  Software Associate Developer Intern at <a hreh="https://www.linkedin.com/company/guviofficial/mycompany/">GUVI Geek Networks</a></li>
+<li>🧑‍💻  Software Associate Developer at <a hreh="https://www.linkedin.com/company/guviofficial/mycompany/">GUVI Geek Networks</a></li>
 <li>🎓  B.E, Computer Science Engineering at Kongu Engineering College, India</li>
 <li>🏢  Currently Learning GoLang</li>
-<li>🎗️  Working on Full Stack Development</li>
-<li>🙊  Can speak in Tamil, English</li>
+<li>🎗️  Working on Full Stack, Devops, Cloud</li>
+<li>🙊  Can speak Tamil and English</li>
 </ul>
 </div>
 
